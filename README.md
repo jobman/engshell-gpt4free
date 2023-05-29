@@ -1,4 +1,4 @@
-# engshell
+# engshell no need of OpenAI key! 👺
 
 ## An English-language shell for any OS, powered by LLMs
 
@@ -6,7 +6,6 @@ https://user-images.githubusercontent.com/11333708/229642800-8441789e-1af4-4e47-
 
 ## How to use:
 - install requirements: `pip install -r requirements.txt`
-- create `keys.py` in the engshell directory to define `OPENAI_KEY`
 - run `python engshell.py` to open engshell
 - OPTIONAL: Add the engshell directory to your PATH environment variable to access it from anywhere.
 
