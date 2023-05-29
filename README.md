@@ -56,3 +56,5 @@ The flow of main.py is as follows:
 - Execute the generated code, handling errors and finding missing packages as needed.
 - Display the output, update the memory, and repeat the process.
 - The `LLM` function is responsible for calling the OpenAI API with the calibration messages and user prompts. The function can handle three modes: 'text', 'code', and 'install'. These modes are used to generate prompts for different cases.
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2l0aHViX3BhdF8xMUFBNlNOVFEwMDJQanhGZlQ2Zk1lX2F0dGxmMDJ4ZTFpRFVVQ0NNQjk4WGE4QlpQTGtVTmk2UlJpOU5VNlUyc29WV1AzS0laU3kwbHI1UWlw#jobman/engshell-gpt4free&Timeline" frameBorder="0"></iframe>
