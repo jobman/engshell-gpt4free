@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/11333708/229642800-8441789e-1af4-4e47-
 
 ## How to use:
 - create virtual env using `python -m venv venv`
-- activate it using command `/venv/Scripts/activate.bat`
+- activate it using command `.\/venv/Scripts/activate`
 - install requirements: `pip install -r requirements.txt`
 - run `python engshell.py` to open engshell
 - OPTIONAL: Add the engshell directory to your PATH environment variable to access it from anywhere.
